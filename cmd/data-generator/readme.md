@@ -1,3 +1,15 @@
+## Generate the files
+
+```bash
+#CSV
+sh ./createCSV10mi.sh
+sh ./createCSV200mi.sh
+
+#RDF
+sh ./createRDF10mi.sh
+sh ./createRDF200mi.sh
+```bash
+
 ## Bulkload
 
 ```bash
