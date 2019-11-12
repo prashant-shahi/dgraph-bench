@@ -1,0 +1,6 @@
+name: string @index(exact) .
+xid: string @index(exact) .
+age: int @index(int) .
+created_at: string @index(exact) .
+updated_at: string @index(exact) .
+friend_of: [uid] .
