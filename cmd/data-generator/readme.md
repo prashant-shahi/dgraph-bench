@@ -8,7 +8,7 @@ sh ./createCSV200mi.sh
 #RDF
 sh ./createRDF10mi.sh
 sh ./createRDF200mi.sh
-```bash
+```
 
 ## Bulkload
 
