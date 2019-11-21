@@ -10,7 +10,7 @@ import (
 
 	"github.com/dgraph-io/dgo"
 	"github.com/dgraph-io/dgo/protos/api"
-	"github.com/linuxerwang/dgraph-bench/tasks"
+	"github.com/prashant-shahi/dgraph-bench/tasks"
 	"google.golang.org/grpc"
 	yaml "gopkg.in/yaml.v2"
 )

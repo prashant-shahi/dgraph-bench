@@ -1,0 +1,5 @@
+name: string @index(exact) .
+xid: string .
+age: int .
+created_at: string .
+updated_at: string .

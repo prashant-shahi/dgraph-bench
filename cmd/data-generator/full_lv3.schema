@@ -1,0 +1,6 @@
+name: string @index(exact, fulltext) @count .
+xid: string @index(exact, fulltext) @count .
+age: int @index(int).
+created_at: string @index(exact) .
+updated_at: string @index(exact) .
+friend_of: [uid] @count @reverse .
